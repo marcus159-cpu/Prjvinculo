@@ -13,5 +13,7 @@ namespace Prjvinculo
         public int Numero { get; set; }
 
         public string Operadora { get; set; }
+
+        public bool Capinha { get; set; }
     }
 }
